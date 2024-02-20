@@ -1,0 +1,9 @@
+### Svelte ###
+.svelte-kit/
+package
+
+### Other ###
+.DS_STORE
+node_modules
+.vscode
+scripts/lfs/
