@@ -1,4 +1,3 @@
-# CSE6242 Team 5
 
 ## Description
 
